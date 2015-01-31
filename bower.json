@@ -1,0 +1,24 @@
+{
+  "name": "angular-multi-transclude",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sullinger/angular-multi-transclude",
+  "authors": [
+    "Stefan Ullinger <stefan@slicemenice.de>"
+  ],
+  "description": "Allows to define multiple insertion points (transcludes) in Angular directives.",
+  "keywords": [
+    "angular",
+    "transclude"
+  ],
+  "license": "MIT",
+  "main": [
+    "sources/**/*"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
