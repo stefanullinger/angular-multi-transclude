@@ -19,3 +19,4 @@ linking function – will ask the registry for a template (» template lookup). 
 this directive inside of ngIfs, as Angular will tell us (call the link function) whenever the
 directive will be placed in the DOM or whenever it will be removed.
 
+... TO BE CONTINUED
