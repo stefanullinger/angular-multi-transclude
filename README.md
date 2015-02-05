@@ -212,6 +212,10 @@ In the end, just don't forget to reference the module in your app.
 
 ## Release History
 
+__1.0.1__
+
+  * Fixed main files in bower.json to include module files first.
+
 __1.0.0__
 
   * First stable release of angular-multi-transclude.

@@ -1,6 +1,6 @@
 {
   "name": "angular-multi-transclude",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/sullinger/angular-multi-transclude",
   "authors": [
     "Stefan Ullinger <stefan@slicemenice.de>"
@@ -12,7 +12,8 @@
   ],
   "license": "MIT",
   "main": [
-    "sources/**/*"
+    "sources/**/*.module.js",
+    "sources/**/*.js"
   ],
   "ignore": [
     "**/.*",
